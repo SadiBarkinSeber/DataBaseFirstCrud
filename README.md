@@ -1,1 +1,15 @@
 # DataBaseFirstCrud
+
+![Ekran görüntüsü 2023-11-20 021903](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/a7b0bf36-bb19-491e-85ba-45dddf6f260c)
+![Ekran görüntüsü 2023-11-20 021852](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/f54e475e-572f-46ed-9dfd-878fcde8de88)
+![Ekran görüntüsü 2023-11-20 021817](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/898a9954-652f-4def-8dcf-a1191053a872)
+![Ekran görüntüsü 2023-11-20 021811](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/ced3d72f-2fac-4a65-b38d-15fae77f992c)
+![Ekran görüntüsü 2023-11-20 021759](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/880efeb0-de6c-4ff4-b1f3-6a6587b39405)
+![Ekran görüntüsü 2023-11-20 021738](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/6dd3ee30-d35c-4b4f-b02a-840b4d19af8f)
+![Ekran görüntüsü 2023-11-20 021727](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/e1723836-0737-428a-8df5-ada6cf00421e)
+![Ekran görüntüsü 2023-11-20 021710](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/b26a37f8-afd5-458d-8b2c-10d395e15a2c)
+![Ekran görüntüsü 2023-11-20 022044](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/758ce671-7af7-4d40-a2fa-9e9c167856db)
+![Ekran görüntüsü 2023-11-20 022035](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/a0386448-04f6-4cc1-9808-cc7ecea7a100)
+![Ekran görüntüsü 2023-11-20 022003](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/11eeb29d-ba6b-4949-9e93-ad98e14bed86)
+![Ekran görüntüsü 2023-11-20 021937](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/4be0651b-e8c5-4cef-99dd-a64774d2aafb)
+![Ekran görüntüsü 2023-11-20 021912](https://github.com/SadiBarkinSeber/DataBaseFirstCrud/assets/72513651/776974fa-c883-41bd-8ee5-b3d13229e08c)
